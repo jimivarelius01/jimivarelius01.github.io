@@ -1,0 +1,8 @@
+body {
+    background-color: rgb(255, 141, 47);
+}
+
+nav ul li a {
+    font-family:'Quicksand', Courier, monospace;
+    text-decoration: none;
+}
